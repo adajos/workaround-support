@@ -91,18 +91,6 @@ Every line of code, every design decision, and every sound effect in Wordaround 
 
 ---
 
-## Logos and Branding
-
-The app icon features a gold-bordered "W" on an indigo gradient tile.
-
-- Primary color: Indigo (#3F51B5)
-- Accent color: Teal (#009688)
-- Gold border: (#FFD700)
-
-*Please do not modify, recolor, or distort the Wordaround logo or icon.*
-
----
-
 ## Key Facts for Coverage
 
 - The locked letter mechanic is original — it's not a clone of Wordle, Spelling Bee, or Scrabble
