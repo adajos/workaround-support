@@ -1,6 +1,6 @@
 # Wordaround — Press Kit
 
-![Wordaround App Icon](/images/Wordaround_Icon.png)
+<img src="/images/Wordaround_Icon.png" width="200" alt="Wordaround App Icon">
 
 ---
 
