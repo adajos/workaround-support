@@ -1,6 +1,6 @@
 # Wordaround — Press Kit
 
-![Wordaround App Icon](placeholder-app-icon-1024x1024.png)
+![Wordaround App Icon](/images/Wordaround_Icon.png)
 
 ---
 
@@ -17,8 +17,7 @@
 | **Location** | Minnesota, USA |
 | **Release Date** | [Month Year] |
 | **App Store** | [App Store Link] |
-| **Website** | [GitHub Pages Link] |
-| **Contact** | [your-email@example.com](mailto:your-email@example.com) |
+| **Contact** | [adajos@hotmail.com](mailto:adajos@hotmail.com) |
 
 ---
 
