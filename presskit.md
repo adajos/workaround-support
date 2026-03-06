@@ -85,20 +85,9 @@ Every line of code, every design decision, and every sound effect in Wordaround 
 
 ---
 
-## App Icon
-
-The Wordaround icon is available in the following sizes:
-
-Download the app icon:
-- **1024×1024** (full resolution): [Wordaround_Icon.png](/images/Wordaround_Icon.png)
-- **512×512** (half resolution): [Wordaround_Icon-512.png](/imagesWordaround_Icon-512.png)
-- **180×180** (app icon size): [Wordaround_Icon-180.png](/images/Wordaround_Icon-180.png)
-
----
-
 ## Video
 
-**App Store Preview** — [Link to preview video or embed]
+**App Store Preview** — ![Link to preview video or embed](/images/Wordaround_App_Preview_resized.mov)
 
 ---
 
