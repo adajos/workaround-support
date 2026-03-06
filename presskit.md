@@ -87,7 +87,7 @@ Every line of code, every design decision, and every sound effect in Wordaround 
 
 ## Video
 
-**App Store Preview** — ![Link](/images/Wordaround_App_Preview_resized.mov)
+**App Store Preview** — [Link](/images/Wordaround_App_Preview_resized.mov)
 
 ---
 
