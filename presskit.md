@@ -89,9 +89,9 @@ Every line of code, every design decision, and every sound effect in Wordaround 
 
 The Wordaround icon is available in the following sizes:
 
-- ![1024×1024](placeholder-icon-1024.png) — Full resolution
-- ![512×512](placeholder-icon-512.png) — Half resolution
-- ![180×180](placeholder-icon-180.png) — App icon size
+- ![1024×1024](/images/Wordaround_Icon.png) — Full resolution
+- ![512×512](/images/Wordaround_Icon-512.png) — Half resolution
+- ![180×180](/images/Wordaround_Icon-180.png) — App icon size
 
 ---
 
