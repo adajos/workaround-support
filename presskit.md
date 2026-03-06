@@ -69,19 +69,19 @@ Every line of code, every design decision, and every sound effect in Wordaround 
 
 ### iPhone
 
-![Main Menu](placeholder-screenshot-iphone-menu.png)
+<img src="/images/Main_Menu.png" width="200" alt="Home screen">
 *The home screen — three game modes, High Scores, and the Vibe selector.*
 
-![Gameplay](placeholder-screenshot-iphone-gameplay.png)
+<img src="/images/Gameplay_iPhone.png" width="200" alt="Game Play iPhone screen">
 *Practice Mode in action. Locked letters are shown in gray with a lock icon. Found words appear in the scrollable list above.*
 
-![Game Over](placeholder-screenshot-iphone-gameover.png)
+<img src="/images/Game_Over.png" width="200" alt="Game Over screen">
 *The game summary screen showing found words, points, and the full list of possible words.*
 
 ### iPad
 
-![iPad Gameplay](placeholder-screenshot-ipad-gameplay.png)
-*Wordaround on iPad in portrait orientation.*
+<img src="/images/Game_Play_iPad.png" width="200" alt="Game Play iPad Screen">
+*Wordaround on iPad in landscape orientation.*
 
 ---
 
