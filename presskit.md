@@ -94,10 +94,6 @@ Download the app icon:
 - **512×512** (half resolution): [Wordaround_Icon-512.png](/imagesWordaround_Icon-512.png)
 - **180×180** (app icon size): [Wordaround_Icon-180.png](/images/Wordaround_Icon-180.png)
 
-- ![1024×1024](/images/Wordaround_Icon.png) — Full resolution
-- ![512×512](/images/Wordaround_Icon-512.png) — Half resolution
-- ![180×180](/images/Wordaround_Icon-180.png) — App icon size
-
 ---
 
 ## Video
