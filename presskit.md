@@ -104,9 +104,8 @@ Download the app icon:
 
 ## Logos and Branding
 
-The Wordaround wordmark uses an indigo-to-teal gradient. The app icon features a gold-bordered "W" on an indigo gradient tile.
+The app icon features a gold-bordered "W" on an indigo gradient tile.
 
-- ![Wordmark](placeholder-wordmark.png)
 - Primary color: Indigo (#3F51B5)
 - Accent color: Teal (#009688)
 - Gold border: (#FFD700)
