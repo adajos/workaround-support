@@ -16,7 +16,7 @@
 | **Developer** | Josh (solo indie developer) |
 | **Location** | Minnesota, USA |
 | **Release Date** | [Month Year] |
-| **App Store** | [App Store Link] |
+| **App Store** | [App Store Link](https://apps.apple.com/app/id6759630399) |
 | **Contact** | [adajos@hotmail.com](mailto:adajos@hotmail.com) |
 
 ---
