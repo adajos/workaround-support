@@ -17,7 +17,7 @@
 | **Location** | Minnesota, USA |
 | **Release Date** | [Month Year] |
 | **App Store** | [App Store Link](https://apps.apple.com/app/id6759630399) |
-| **Contact** | [adajos@hotmail.com](mailto:adajos@hotmail.com) |
+| **Contact** | [wordaroundapp@gmail.com](mailto:wordaroundapp@gmail.com) |
 
 ---
 
@@ -106,7 +106,7 @@ Every line of code, every design decision, and every sound effect in Wordaround 
 
 For press inquiries, review copies, additional assets, or interview requests:
 
-📧 **[adajos@hotmail.com](mailto:adajos@hotmail.com)**
+📧 **[wordaroundapp@gmail.com](mailto:wordaroundapp@gmail.com)**
 
 Response time is typically within 24 hours.
 
