@@ -46,7 +46,7 @@ If this policy changes, the updated version will be posted here with a revised d
 
 If you have questions about this privacy policy, you can reach me at:
 
-📧 **[adajos@hotmail.com.com](mailto:adajos@hotmail.com)**
+📧 **[wordaroundapp@gmail.com](mailto:wordaroundapp@gmail.com)**
 
 ---
 
