@@ -87,7 +87,7 @@ Every line of code, every design decision, and every sound effect in Wordaround 
 
 ## Video
 
-**App Store Preview** — [Link](/images/Wordaround_App_Preview_resized.mov)
+<a href="https://github.com/adajos/workaround-support/raw/main/images/Wordaround_App_Preview_resized.mov" download>App Preview Video</a>
 
 ---
 
