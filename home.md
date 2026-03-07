@@ -56,7 +56,7 @@ Wordaround is made by Josh, a professional iOS engineer by day and indie game de
 
 - 📱 [**Download on the App Store**](https://apps.apple.com/app/id6759630399)
 - 📰 [**Press Kit**](presskit.md)
-- 🎬 [**App Preview Video**](/images/Wordaround_App_Preview_resized.mov)
+- 🎬 <a href="/images/Wordaround_App_Preview_resized.mov" download>App Preview Video</a>
 - 📧 [**Contact**](mailto:wordaroundapp@gmail.com)
 
 -----
