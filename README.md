@@ -43,7 +43,7 @@ The app does not require an account or sign-in of any kind.
 
 If you have a question, found a bug, or just want to say hi, you can reach me at:
 
-📧 **[adajos@hotmail.com](mailto:adajos@hotmail.com.com)**
+📧 **[wordaroundapp@gmail.com](mailto:wordaroundapp@gmail.com)**
 
 I'm a solo indie developer and I read every message, though it may take a day or two to respond.
 
